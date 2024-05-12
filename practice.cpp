@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main()
+{
   int x, y;
   char op;
 
@@ -39,6 +40,6 @@ int main() {
     cout << "invalid operator";
     return 0;
   }
-  
+
   return 0;
 }
